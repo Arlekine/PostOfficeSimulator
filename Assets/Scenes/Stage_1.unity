@@ -251,7 +251,7 @@ MonoBehaviour:
   _spawnDistance: 10
   _completedClientsToWin: 10
   _enqueuedClientsToLoose: 8
-  _winOffsetTime: 4
+  _winOffsetTime: 2
   _pointsForRightPackage: 100
   _pointsForIncorrectPackage: -100
   _scoreView: {fileID: 1778905757}

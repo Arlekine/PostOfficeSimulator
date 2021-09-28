@@ -6761,7 +6761,7 @@ MonoBehaviour:
   _boxMoveOutPoint: {fileID: 1427021497}
   _firstBoxMoveTime: 1
   _timeForEnding: 5
-  _nextClientOffset: 2
+  _nextClientOffset: 1
   _boxCheckingAcception: {fileID: 925635357}
   _finalCheckingAcception: {fileID: 129884140}
   _police: {fileID: 1707443256}
