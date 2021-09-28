@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de94eceb-e8fe-422e-9d6b-9f8febaedb36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/UiAcceptionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ClientDesire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PackagesSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/AcceptionController3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientController_Stage2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/UiHint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/Button3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/BoxLid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/PoliceSiren.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/DoctorGangbang.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/PoliceGangbang.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ClientController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ClientReactionType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ClientReaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ReactionsHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RZDTrafficLights/Assets/Scripts/BlitMaterialFeature.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/AcceptionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/UiClientDesire.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clients/ClientMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/617CE388-4879-4C26-9446-D944EB6FACB3/0f/f62d2550/Cloth.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/RotationLid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClientsSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClientsQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/SecondStageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoxSewAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackehesSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackagesGettingPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ResultPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackageHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/PhoneLid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/SmallBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/DraggableBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/SmallBoxLid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/PulsingAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DraggableBodySelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PostOfficeWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Package.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DraggableBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PackagesGettingPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PackehesSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ClientReaction.cs" />
+        <option value="$PROJECT_DIR$/../RZDTrafficLights/Assets/Scripts/BlitMaterialFeature.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackehesSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackageHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Packages/DraggableBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ReactionsHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackagesGettingPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PackagesSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClientsSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ClientMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ClientDesire.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ClientController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClientsQueue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/UiAcceptionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/AcceptionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/Button3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/PoliceSiren.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/UiHint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/PulsingAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxSewAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/AcceptionController3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ResultPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/PhoneLid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/SmallBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientBox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/PoliceGangbang.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientController_Stage2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/SecondStageController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yPSt3SRQZBcgNwA47OkyRQDG6B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de94eceb-e8fe-422e-9d6b-9f8febaedb36" name="Default Changelist" comment="" />
+      <created>1632151940872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632151940872</updated>
+      <workItem from="1632151942152" duration="42783000" />
+      <workItem from="1632744564135" duration="33851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1632154337089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1632154337089" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1632154337089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1632154337089" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1632154337089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1632154337089" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1632154337089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1632154337089" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1632154352256">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1632154352256" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1632154352256">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1632154352256" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1632154352256">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1632154352256" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1632154352256">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1632154352256" />
+    <state x="1013" y="424" key="RiderGenerateDialog" timestamp="1632763208200">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1013" y="424" key="RiderGenerateDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1632763208200" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1632231943075">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1632231943075" />
+  </component>
+</project>
