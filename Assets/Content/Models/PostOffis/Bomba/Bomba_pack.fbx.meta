@@ -1,9 +1,44 @@
 fileFormatVersion: 2
 guid: 091e7666b0c4aa749b9fb3ad43676613
 ModelImporter:
-  serializedVersion: 20200
+  serializedVersion: 20101
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_mat
+    second: {fileID: 2100000, guid: 29b33914e95314dff9d56eedc10cc13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark_green_mat
+    second: {fileID: 2100000, guid: e94029736e9964a65932d2d30479e4a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_mat
+    second: {fileID: 2100000, guid: 258f0236c557b4b41afaaef88be8dd6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone_pack_mat
+    second: {fileID: 2100000, guid: 1a7751a728d8a481983bfab460a43e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_light_mat
+    second: {fileID: 2100000, guid: a57db0044fe1943efb261df699c3e784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_mat
+    second: {fileID: 2100000, guid: 7da31ecf72449499b9b68d67fee03607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellow_low_mat
+    second: {fileID: 2100000, guid: f58e28dd064a34c48a29edf7f8edea52, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -95,7 +130,6 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
