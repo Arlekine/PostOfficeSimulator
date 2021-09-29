@@ -128,6 +128,7 @@
           </e>
           <e p="ClientsQueue.cs" t="Include" />
           <e p="ClientsSpawner.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
           <e p="Packages" t="Include">
             <e p="DraggableBody.cs" t="Include" />
             <e p="Package.cs" t="Include" />
@@ -158,6 +159,15 @@
           <e p="UI" t="Include">
             <e p="ResultPanel.cs" t="Include" />
             <e p="ScoreView.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Simple Toon" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="STCore.cginc" t="Include" />
+            <e p="STDefault.shader" t="Include" />
+            <e p="STFunctions.cginc" t="Include" />
+            <e p="STOutline.shader" t="Include" />
+            <e p="STTransparent.shader" t="Include" />
           </e>
         </e>
         <e p="TextMesh Pro" t="Include">

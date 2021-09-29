@@ -1462,6 +1462,7 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &727980181
@@ -2178,6 +2179,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &978378513
 Canvas:
   m_ObjectHideFlags: 0
@@ -2296,6 +2298,7 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 1.6316482e-31, z: 4.59e-41, w: 1.6438139e+17}
   m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &981222675
@@ -3274,6 +3277,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -4098,6 +4102,8 @@ MonoBehaviour:
   _scoreChangeText: {fileID: 1794062541}
   _scoreChangeRect: {fileID: 1794062539}
   _scoreChangeCanvasGroup: {fileID: 1794062540}
+  _winColor: {r: 0, g: 1, b: 0, a: 1}
+  _looseColor: {r: 1, g: 0, b: 0, a: 1}
   _scoreChangeTweenTime: 0.3
   _scoreChangeWaitTime: 3
   _scoreBoopSize: 1.2

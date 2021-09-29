@@ -9,6 +9,8 @@ using UnityEngine.UI;
 public class SecondStageController : MonoBehaviour
 {
     [SerializeField] private List<ClientController_Stage2> _clients = new List<ClientController_Stage2>();
+    [SerializeField] private Door _door;
+    [SerializeField] private float _doorCloseOffset;
     [SerializeField] private Transform _clientsSpawnPoint;
     [SerializeField] private Transform _clientsOutPoint;
     [SerializeField] private Transform _tablePoint;
@@ -59,6 +61,12 @@ public class SecondStageController : MonoBehaviour
         _currentPlayer = Instantiate(_clients[playerIndex], _clientsSpawnPoint);
         _currentPlayer.transform.localPosition = Vector3.zero;
         _currentPlayer.transform.localRotation = Quaternion.identity;
+        
+        _door.Open();
+
+        var doorCloseSeq = DOTween.Sequence();
+        doorCloseSeq.AppendInterval(_doorCloseOffset);
+        doorCloseSeq.AppendCallback(() => _door.Close());
 
         _currentPlayer.Move(_tablePoint.position);
         

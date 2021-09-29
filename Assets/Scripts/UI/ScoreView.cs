@@ -12,6 +12,10 @@ public class ScoreView : MonoBehaviour
     [SerializeField] private CanvasGroup _scoreChangeCanvasGroup;
 
     [Space] 
+    [SerializeField] private Color _winColor;
+    [SerializeField] private Color _looseColor;
+
+    [Space] 
     [SerializeField] private float _scoreChangeTweenTime;
     [SerializeField] private float _scoreChangeWaitTime = 3f;
     [SerializeField] private float _scoreBoopSize = 1.2f;
@@ -26,6 +30,7 @@ public class ScoreView : MonoBehaviour
 
         _scoreText.text = newScore.ToString();
         _scoreChangeText.text = scoreChange >= 0 ? "+" + scoreChange.ToString() : scoreChange.ToString();
+        _scoreChangeText.color = scoreChange >= 0 ? _winColor : _looseColor;
 
         _currentTween?.Kill();
         _currentTween = DOTween.Sequence();

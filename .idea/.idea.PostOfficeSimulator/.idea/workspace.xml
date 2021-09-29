@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de94eceb-e8fe-422e-9d6b-9f8febaedb36" name="Default Changelist" comment="" />
+    <list default="true" id="de94eceb-e8fe-422e-9d6b-9f8febaedb36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PostOfficeSimulator/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PostOfficeSimulator/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PostOfficeSimulator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PostOfficeSimulator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage_1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage_1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Stage_2/SecondStageController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Stage_2/SecondStageController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +46,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackehesSelector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackagesGettingPoint.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ResultPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Packages/PackageHolder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/PhoneLid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stage_2/SmallBox.cs" root0="FORCE_HIGHLIGHTING" />
@@ -62,7 +69,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackehesSelector.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackageHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Packages/DraggableBody.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Clients/ReactionsHolder.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Packages/PackagesGettingPoint.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PackagesSpawner.cs" />
@@ -85,11 +91,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientBox.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/PoliceGangbang.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/ClientController_Stage2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Stage_2/SecondStageController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1yPSt3SRQZBcgNwA47OkyRQDG6B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -133,7 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1632151940872</updated>
       <workItem from="1632151942152" duration="42783000" />
-      <workItem from="1632744564135" duration="34446000" />
+      <workItem from="1632744564135" duration="35041000" />
+      <workItem from="1632903340638" duration="1166000" />
     </task>
     <servers />
   </component>
